@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.class
+
+# IDE/config
+.vscode/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*~
